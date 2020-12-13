@@ -1,0 +1,13 @@
+error: false
+category: "Miscellaneous"
+type: "twopart"
+setup: "My wife divorced me so I stole her wheelchair."
+delivery: "Guess who came crawling back."
+flags:
+  nsfw: false
+  religious: false
+  political: false
+  racist: false
+  sexist: false
+id: 86
+lang: "en"

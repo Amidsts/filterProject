@@ -1,0 +1,24 @@
+body {
+    margin: 0; 
+    padding: 0;
+}
+.container-fluid {
+    overflow: hidden;
+}
+.height {
+    background: url(../img/cupcake-1.jpeg) center/cover fixed no-repeat ;
+    min-height: calc(100vh - 50px);  
+}
+.section3{
+    background-color:rgb(238, 230, 230);
+}
+.imgBtn {
+    margin-bottom: 1.5em;
+}
+.input-group button{
+    border-radius: 4px 0 0 4px;
+    background-color: rgb(253, 125, 147);
+}
+.input-group button,.input-group input {
+    padding: 5px 10px;
+}
